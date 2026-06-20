@@ -36,7 +36,7 @@ Built and maintained backend functionalities, REST APIs, and caching layers usin
 
 ### 📫 Let's Connect
 
-- *LinkedIn:* [linkedin.com/in/faiza-ali-878abb3b5](https://www.linkedin.com/in/faiza-ali-878abb3b5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- *LinkedIn:* [linkedin.com/in/faiza-ali-878abb3b5](https://www.linkedin.com/in/faiza-ali-878abb3b5)
 - *Email:* fa964370@gmail.com
 
 ---
