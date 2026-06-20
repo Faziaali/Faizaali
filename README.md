@@ -18,9 +18,9 @@ I build scalable web applications and RESTful APIs using Python, Django, Postgre
 
 ### 🚀 Featured Projects
 
-- **[Real Estate Listing Platform](https://github.com/faizarajpoot1505)** — Django + DRF + PostgreSQL/PostGIS + Elasticsearch backend with geolocation-based property search, agent profiles, and lead management
-- **[Hospital Management System](https://github.com/faizarajpoot1505/hospital_management_system)** — Full-stack system for managing patients, appointments, and records
-- **[Library Management System](https://github.com/faizarajpoot1505/library-management-system)** — Django-based system for managing books, members, and transactions
+- **[Real Estate Listing Platform](https://github.com/Faziaali/real_estate_platform)** — Django + DRF + PostgreSQL/PostGIS + Elasticsearch backend with geolocation-based property search, agent profiles, and lead management
+- **[Hospital Management System](https://github.com/Faziaali/hospital_management_system)** — Full-stack system for managing patients, appointments, and records
+- **[Library Management System](https://github.com/Faziaali/lms)** — Django-based system for managing books, members, and transactions
 
 (Update these links to point to your actual project repos)
 
