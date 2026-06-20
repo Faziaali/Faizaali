@@ -22,8 +22,6 @@ I build scalable web applications and RESTful APIs using Python, Django, Postgre
 - **[Hospital Management System](https://github.com/Faizaali1505/hospital_management_system)** — Full-stack system for managing patients, appointments, and records
 - **[Library Management System](https://github.com/Faizaali1505/lms)** — Django-based system for managing books, members, and transactions
 
-(Update these links to point to your actual project repos)
-
 ---
 
 ### 💼 Experience
